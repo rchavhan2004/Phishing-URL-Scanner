@@ -64,5 +64,5 @@ By working on this project, you will:
 </p>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4862/4862973.png" alt="Secure Icon" width="80">
+  <img src="https://github.com/user-attachments/assets/d3c233dd-d5e5-4658-b7e8-4853df06eaf5" alt="Secure Icon" width="80">
 </p>
